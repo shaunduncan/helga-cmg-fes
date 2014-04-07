@@ -8,4 +8,4 @@ This is really only for use at CMG.
 
 Copyright (c) 2013 Shaun Duncan
 
-Licensed under the [GPL](https://github.com/shaunduncan/helga-cmg-fes/blob/master/LICENSE).
+Licensed under [MIT](https://github.com/shaunduncan/helga-cmg-fes/blob/master/LICENSE).
